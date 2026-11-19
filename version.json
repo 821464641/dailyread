@@ -1,0 +1,8 @@
+{
+ "versionCode": 5,
+ "versionName": "1.4",
+ "apk": "https://821464641.github.io/dailyread/app.apk",
+ "size": 98844,
+ "sha256": "1848adb9aaef9b02ebf5f43fcaeee85780b3aad87d352632181d7eff54da1862",
+ "notes": "· 应用内更新：检测到新版本可直接下载安装，无需手动传 APK\n· 日期选择改为月历，有日报的日子带圆点标记\n· 修复翻月到最早月份仍可继续前翻的问题"
+}
